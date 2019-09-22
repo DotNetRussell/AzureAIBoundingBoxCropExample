@@ -1,5 +1,4 @@
 # Azure AI Bounding Box Image Crop with OCR Example
-Azure Cognitive Services Vision to get a bounding box | Crop | OCR Example
 
 Just a simple Azure Custom Vision Example. 
 
